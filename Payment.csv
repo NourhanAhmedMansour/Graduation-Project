@@ -1,0 +1,201 @@
+payment_id,enrollment_id,revenue,payment_method
+1,1,759.02,Wallet
+2,2,848.03,Cash
+3,3,317.68,Credit Card
+4,4,281.57,Credit Card
+5,5,279.41,Credit Card
+6,6,206.69,Wallet
+7,7,385.21,Cash
+8,8,585.21,Credit Card
+9,9,316.49,Cash
+10,10,328.72,Credit Card
+11,11,467.09,Credit Card
+12,12,402.19,Wallet
+13,13,111.09,Credit Card
+14,14,574.52,Credit Card
+15,15,195.03,Wallet
+16,16,226.18,Cash
+17,17,721.97,Wallet
+18,18,253.38,Cash
+19,19,404.06,Wallet
+20,20,243.18,Credit Card
+21,21,221.57,Wallet
+22,22,286.41,Credit Card
+23,23,512.76,Cash
+24,24,208.42,Credit Card
+25,25,601.41,Credit Card
+26,26,643.91,Cash
+27,27,538.64,Cash
+28,28,419.97,Credit Card
+29,29,508.0,Cash
+30,30,228.23,Cash
+31,31,230.76,Cash
+32,32,596.55,Cash
+33,33,240.74,Wallet
+34,34,861.28,Credit Card
+35,35,510.96,Cash
+36,36,641.32,Wallet
+37,37,527.85,Cash
+38,38,475.42,Cash
+39,39,345.39,Cash
+40,40,453.34,Credit Card
+41,41,687.28,Credit Card
+42,42,835.56,Wallet
+43,43,183.03,Cash
+44,44,846.26,Cash
+45,45,187.51,Cash
+46,46,180.68,Credit Card
+47,47,423.8,Credit Card
+48,48,365.87,Cash
+49,49,189.57,Wallet
+50,50,763.64,Cash
+51,51,640.81,Cash
+52,52,194.44,Cash
+53,53,128.43,Cash
+54,54,657.23,Credit Card
+55,55,364.45,Credit Card
+56,56,600.02,Wallet
+57,57,669.77,Credit Card
+58,58,595.5,Cash
+59,59,319.99,Credit Card
+60,60,662.86,Credit Card
+61,61,553.58,Credit Card
+62,62,672.53,Credit Card
+63,63,479.92,Wallet
+64,64,735.58,Cash
+65,65,137.96,Cash
+66,66,102.83,Wallet
+67,67,410.83,Wallet
+68,68,362.71,Wallet
+69,69,391.39,Credit Card
+70,70,311.02,Credit Card
+71,71,521.02,Cash
+72,72,534.99,Credit Card
+73,73,733.77,Wallet
+74,74,574.14,Cash
+75,75,649.43,Credit Card
+76,76,466.94,Credit Card
+77,77,127.54,Credit Card
+78,78,321.87,Credit Card
+79,79,279.46,Wallet
+80,80,491.51,Credit Card
+81,81,459.35,Credit Card
+82,82,414.24,Credit Card
+83,83,637.64,Wallet
+84,84,131.24,Credit Card
+85,85,363.07,Credit Card
+86,86,453.92,Credit Card
+87,87,147.26,Cash
+88,88,821.59,Wallet
+89,89,860.62,Wallet
+90,90,319.41,Credit Card
+91,91,266.91,Credit Card
+92,92,537.65,Credit Card
+93,93,323.46,Wallet
+94,94,818.98,Credit Card
+95,95,695.54,Wallet
+96,96,159.38,Wallet
+97,97,895.14,Cash
+98,98,409.87,Wallet
+99,99,224.37,Cash
+100,100,408.07,Cash
+101,101,408.59,Credit Card
+102,102,335.12,Credit Card
+103,103,250.29,Wallet
+104,104,435.84,Credit Card
+105,105,510.25,Credit Card
+106,106,619.84,Wallet
+107,107,308.84,Wallet
+108,108,597.04,Wallet
+109,109,653.58,Credit Card
+110,110,511.49,Credit Card
+111,111,307.65,Cash
+112,112,198.07,Credit Card
+113,113,740.83,Cash
+114,114,492.46,Cash
+115,115,727.85,Credit Card
+116,116,483.52,Cash
+117,117,214.24,Wallet
+118,118,436.66,Credit Card
+119,119,216.52,Wallet
+120,120,124.7,Credit Card
+121,121,301.98,Credit Card
+122,122,838.95,Wallet
+123,123,449.56,Wallet
+124,124,466.21,Wallet
+125,125,852.64,Wallet
+126,126,401.38,Wallet
+127,127,733.07,Cash
+128,128,866.27,Credit Card
+129,129,812.37,Credit Card
+130,130,757.58,Wallet
+131,131,358.04,Wallet
+132,132,778.35,Credit Card
+133,133,129.94,Wallet
+134,134,291.29,Credit Card
+135,135,731.46,Wallet
+136,136,504.96,Cash
+137,137,454.51,Credit Card
+138,138,119.36,Cash
+139,139,151.92,Credit Card
+140,140,159.43,Wallet
+141,141,181.67,Cash
+142,142,322.31,Wallet
+143,143,614.44,Credit Card
+144,144,470.39,Wallet
+145,145,795.91,Credit Card
+146,146,171.57,Wallet
+147,147,709.71,Cash
+148,148,472.66,Credit Card
+149,149,628.54,Credit Card
+150,150,290.77,Credit Card
+151,151,831.35,Credit Card
+152,152,369.7,Wallet
+153,153,575.4,Credit Card
+154,154,422.26,Cash
+155,155,150.86,Cash
+156,156,774.61,Credit Card
+157,157,807.28,Wallet
+158,158,762.99,Cash
+159,159,823.09,Credit Card
+160,160,452.61,Cash
+161,161,620.29,Cash
+162,162,822.33,Wallet
+163,163,857.81,Wallet
+164,164,610.57,Credit Card
+165,165,422.27,Credit Card
+166,166,841.36,Credit Card
+167,167,295.32,Wallet
+168,168,761.46,Wallet
+169,169,175.37,Wallet
+170,170,175.86,Credit Card
+171,171,857.68,Cash
+172,172,553.43,Wallet
+173,173,859.91,Credit Card
+174,174,546.12,Cash
+175,175,893.78,Cash
+176,176,618.7,Credit Card
+177,177,695.25,Wallet
+178,178,136.1,Wallet
+179,179,699.02,Wallet
+180,180,758.47,Cash
+181,181,544.9,Credit Card
+182,182,810.57,Credit Card
+183,183,201.44,Cash
+184,184,188.77,Cash
+185,185,771.4,Wallet
+186,186,285.16,Wallet
+187,187,770.45,Cash
+188,188,407.8,Credit Card
+189,189,332.31,Cash
+190,190,538.27,Credit Card
+191,191,576.84,Credit Card
+192,192,849.11,Cash
+193,193,431.9,Wallet
+194,194,742.1,Credit Card
+195,195,255.05,Credit Card
+196,196,706.49,Credit Card
+197,197,460.25,Cash
+198,198,251.44,Credit Card
+199,199,474.79,Wallet
+200,200,341.7,Credit Card
